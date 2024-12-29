@@ -1,0 +1,76 @@
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/satc/SaTC/jsparse/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/satc/SaTC/jsparse/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/test/.npm/_logs/2023-04-04T05_30_01_474Z-debug.log
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/satc/SaTC/jsparse/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/satc/SaTC/jsparse/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/test/.npm/_logs/2023-04-04T05_30_28_887Z-debug.log
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/satc/SaTC/jsparse/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/satc/SaTC/jsparse/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2023-04-04T05_30_40_328Z-debug.log
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/satc/SaTC/jsparse/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/satc/SaTC/jsparse/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/test/.npm/_logs/2023-04-04T05_30_47_841Z-debug.log
+
+> jsparse@1.0.1 start
+> cross-env NODE_ENV=production node app
+
+sh: 1: cross-env: not found
+npm ERR! code 127
+npm ERR! path /home/test/Desktop/New_SaTC/SaTC/src/jsparse
+npm ERR! command failed
+npm ERR! command sh -c cross-env NODE_ENV=production node app
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/test/.npm/_logs/2023-04-04T05_31_56_899Z-debug.log
+
+> jsparse@1.0.1 start
+> cross-env NODE_ENV=production node app
+
+sh: 1: cross-env: not found
+npm ERR! code 127
+npm ERR! path /home/test/Desktop/New_SaTC/SaTC/src/jsparse
+npm ERR! command failed
+npm ERR! command sh -c cross-env NODE_ENV=production node app
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/test/.npm/_logs/2023-06-16T01_11_06_547Z-debug.log
+
+> jsparse@1.0.1 start
+> cross-env NODE_ENV=production node app
+
+sh: 1: cross-env: not found
+npm ERR! code 127
+npm ERR! path /home/test/Desktop/New_SaTC/SaTC/src/jsparse
+npm ERR! command failed
+npm ERR! command sh -c cross-env NODE_ENV=production node app
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2023-06-16T01_11_14_717Z-debug.log

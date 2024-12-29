@@ -1,0 +1,5 @@
+.idea
+.VSCodeCounter/
+.venv/
+*.pyc
+ghidra
